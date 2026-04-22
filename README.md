@@ -1,7 +1,5 @@
 # NovaFlow Studio
 
-小圆项目，禁止商业用途。
-
 ![Dashboard Showcase](docs/screenshot1.png)
 
 ![Workflow Canvas Showcase](docs/screenshot2.png)
