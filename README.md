@@ -1,5 +1,11 @@
 # NovaFlow Studio
 
+小圆项目，禁止商业用途。
+
+![Dashboard Showcase](docs/screenshot1.png)
+
+![Workflow Canvas Showcase](docs/screenshot2.png)
+
 NovaFlow Studio 是一个先进的全栈可视化 AI 应用低代码编排平台。它旨在降低 AI 应用开发的门槛，使开发者和业务人员能够通过直观的拖拽式交互，快速构建、测试和部署复杂的 AI 工作流。
 
 ## 项目亮点
