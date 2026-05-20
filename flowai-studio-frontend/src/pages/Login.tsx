@@ -50,7 +50,7 @@ const Login: React.FC = () => {
       <div className="auth-brand">
         <div className="auth-brand-content">
           <div className="auth-brand-logo">✦</div>
-          <h1 className="auth-brand-title">FlowAI Studio</h1>
+          <h1 className="auth-brand-title">NovaFlow Studio</h1>
           <p className="auth-brand-desc">
             可视化 AI 应用低代码编排平台
             <br />
@@ -58,7 +58,7 @@ const Login: React.FC = () => {
           </p>
         </div>
         <div className="auth-brand-footer">
-          <span>© 2024 FlowAI Studio</span>
+          <span>© 2024 NovaFlow Studio</span>
         </div>
       </div>
 

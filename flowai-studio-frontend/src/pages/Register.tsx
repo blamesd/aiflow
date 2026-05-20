@@ -29,7 +29,7 @@ const Register: React.FC = () => {
       <div className="auth-brand">
         <div className="auth-brand-content">
           <div className="auth-brand-logo">✦</div>
-          <h1 className="auth-brand-title">FlowAI Studio</h1>
+          <h1 className="auth-brand-title">NovaFlow Studio</h1>
           <p className="auth-brand-desc">
             可视化 AI 应用低代码编排平台
             <br />
@@ -37,7 +37,7 @@ const Register: React.FC = () => {
           </p>
         </div>
         <div className="auth-brand-footer">
-          <span>© 2024 FlowAI Studio</span>
+          <span>© 2024 NovaFlow Studio</span>
         </div>
       </div>
 
@@ -45,7 +45,7 @@ const Register: React.FC = () => {
       <div className="auth-form-panel">
         <div className="auth-form-wrapper">
           <h2 className="auth-heading">创建账号</h2>
-          <p className="auth-subheading">注册一个新的 FlowAI Studio 账号</p>
+          <p className="auth-subheading">注册一个新的 NovaFlow Studio 账号</p>
 
           {error && (
             <Alert

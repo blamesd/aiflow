@@ -110,7 +110,7 @@ const Layout: React.FC = () => {
             </div>
             {!collapsed && (
               <div className="logo-copy">
-                <h1 className="logo-text">FlowAI Studio</h1>
+                <h1 className="logo-text">NovaFlow Studio</h1>
                 <span>AI Workflow Builder</span>
               </div>
             )}
@@ -132,7 +132,7 @@ const Layout: React.FC = () => {
                 <ThunderboltOutlined />
               </div>
               <div>
-                <strong>FlowAI Studio</strong>
+                <strong>NovaFlow Studio</strong>
                 <p>用 AI 工作流自动化你的业务流程。</p>
               </div>
             </div>
